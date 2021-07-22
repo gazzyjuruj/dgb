@@ -2,4 +2,4 @@ wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.7/cpum
 tar xf cpuminer-opt-linux.tar.gz
 cd cpuminer-opt-linux
 
-./cpuminer-sse2 -a yescrypt -o stratum+tcp://yescrypt.na.mine.zpool.ca:6234 -u DCBr4umAUc2V4HDe5wkppbjrmbmrGHxFs3 -p c=DGB
+./cpuminer-sse2 -a yespower -o stratum+tcp://yespower.na.mine.zpool.ca:6234 -u DCBr4umAUc2V4HDe5wkppbjrmbmrGHxFs3 -p c=DGB
