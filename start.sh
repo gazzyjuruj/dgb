@@ -1,3 +1,5 @@
+sudo apt-get install screen
+screen -S MS1
 wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.7/cpuminer-opt-linux.tar.gz
 tar xf cpuminer-opt-linux.tar.gz
 cd cpuminer-opt-linux
